@@ -6,5 +6,6 @@ content.strip()
 
 freq = Counter(content)
 print(freq.most_common())
+f.close()
 
 # Change ocr to equality
